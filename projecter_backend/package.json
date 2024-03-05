@@ -17,6 +17,7 @@
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "mongoose": "^6.5.2",
+    "ngrok": "^5.0.0-beta.2",
     "validator": "^13.7.0"
   },
   "devDependencies": {
