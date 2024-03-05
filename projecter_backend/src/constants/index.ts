@@ -1,3 +1,4 @@
-import { appStrings } from "./AppStrings";
+import {appStrings} from "./AppStrings";
+import {Role, Designation, NewUserFormData} from "./UserConstants";
 
-export { appStrings };
+export {appStrings, Designation, Role, NewUserFormData};
